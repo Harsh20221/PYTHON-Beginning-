@@ -1,1 +1,2 @@
-for j in range(i): 
+
+    num = int(input("Enter the number: "))
