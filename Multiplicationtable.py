@@ -5,3 +5,6 @@ def multiplication_table(number):
 
 num = int(input("Enter the number for the multiplication table: "))
 multiplication_table(num)
+
+
+
